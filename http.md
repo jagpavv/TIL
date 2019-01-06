@@ -1,7 +1,12 @@
 # HTTP
 
-### REST (REpresentational State Transfer)?
-### Methods 
+## REST (REpresentational State Transfer)? ##
+### Methods ###
+
+- Resource: URI
+- Method: HTTP Method
+- Representation or Message: JSON, XML etc.
+
 CRUD (Create, Read, Update, Delete)
 
 
